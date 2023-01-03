@@ -68,16 +68,17 @@ The main deliverable of the course is a quarter-long project, designed to give y
 
 2. **[Conduct a research project]()**. If you're interested in diving deeper into the research side of foundation models, we encourage you to conduct a research project of your own design. This could be a study of a particular FM's properties, an evaluation comparing multiple FMs, or a proposal and implementation for generally improving an existing FM-based method / technique. 
 
+* **Logistics** *    
 Both project formats may be done in **teams of 1-3 students**.
 
-They will also involve **two milestones** to help organize your progress: (1) an initial proposal, and (2) a final submission. Dates for these milestones will be announced shortly.   
+We will have **two milestones** to help organize your progress: (1) an initial proposal, and (2) a final submission. Dates for these milestones will be announced shortly.   
 1. The **[initial proposal]()** should outline the application or research problem you're interested in, and the approach you plan to take. It should include a brief description of the FM(s) you plan to use, and a list of potential evaluation metrics.  
 
 2. The **[final submission]()** will involve writing and coding components for both project formats. More details will be announced shortly, but expect:
 - **Application / demo** submissions to include a working demo of your application (e.g., as a [Gradio](https://gradio.app/) or [Streamlit](https://streamlit.io/) web app), along with a shorter write-up describing and motivating the problem you're solving, the FM(s) you used, and how you built and evaluated your application.  
 - **Research project** submissions to include a final report in the style of a research paper. This should describe and motivate your research problem, the related work, your proposed methods, and the results of your evaluation. 
 
-More information will shortly be available [here](https://stanford-cs324.github.io/winter2023/projected/). We will also update the page with a list of potential project ideas and resources to help you get started.
+More information will shortly be available [here](https://stanford-cs324.github.io/winter2023/projected/). We will also update the page with a list of potential project ideas and resources.
 
 ### 3. Class attendance and participation 
 Starting in Week 3 (1/25/2023), classes will feature guest speakers and the opportunity to ask questions in **follow-up Q&As**. We encourage you to be active during these sessions. To help prepare, as the quarter progress, additional information about upcoming speakers and relevant readings will be added to the [Calendar](https://stanford-cs324.github.io/winter2023/calendar/) page. These will be updated at least three days in advance of each class; we encourage you to read the relevant materials ahead of time.
