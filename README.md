@@ -68,7 +68,7 @@ The main deliverable of the course is a quarter-long project, designed to give y
 
 2. **[Conduct a research project]()**. If you're interested in diving deeper into the research side of foundation models, we encourage you to conduct a research project of your own design. This could be a study of a particular FM's properties, an evaluation comparing multiple FMs, or a proposal and implementation for generally improving an existing FM-based method / technique. 
 
-#### Logistics     
+### *Logistics*     
 Both project formats may be done in **teams of 1-3 students**.
 
 We will have **two milestones** to help organize your progress: (1) an initial proposal, and (2) a final submission. Dates for these milestones will be announced shortly.   
