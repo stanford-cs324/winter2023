@@ -7,5 +7,5 @@ Feb 27
   : [Jack Rae](https://mobile.twitter.com/drjwrae) (OpenAI)
 
 Mar 1
-: **Speaker**{: .label .label-green }[](#)
-  : TBD
+: **Speaker**{: .label .label-green }[Talk TBD](#)
+  : [Susan Zhang](https://twitter.com/suchenzang) (Meta)

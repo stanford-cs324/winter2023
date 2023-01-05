@@ -27,7 +27,7 @@ Foundation models (FMs) are models (e.g., DALL-E, GPT-3, Stable Diffusion) that 
 
 ## Logistics
 
-**Where**: Class is in person at [Thornton 210](https://goo.gl/maps/NaddwfByWDMDDQXt9)  
+**Where**: Virtual (Lectures and Speakers via Zoom), In-Person Office Hours
 
 **When**: Mondays and Wednesdays, 3:30-4:20pm PST.  
 
