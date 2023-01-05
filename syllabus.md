@@ -141,22 +141,21 @@ Model Parallelism](https://arxiv.org/abs/1909.08053)
 * *Course Notes*:  
 
 * *Blog Posts*:  
-- [Aligning Language Models
-to Follow Instructions](https://openai.com/blog/instruction-following/)  
-- [PubMedGPT](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html)  
+  - [Aligning Language Models
+  to Follow Instructions](https://openai.com/blog/instruction-following/)  
+  - [PubMedGPT](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html)  
 
 * *Papers*:  
-- [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  
-- [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155)
-- [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://ui.adsabs.harvard.edu/abs/2022arXiv220313474N/abstract)
-- [Highly Accurate Protein Structure Prediction with AlphaFold](https://pubmed.ncbi.nlm.nih.gov/34265844/)
-- [Language Models of Protein Sequences at the Scale of Evolution Enable Accurate Structure Prediction](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1)
-- [GatorTron: A Large Language Model for Clinical Natural Language Processing](https://www.medrxiv.org/content/10.1101/2022.02.27.22271257v2.full) 
-- [Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset](https://arxiv.org/abs/2207.00220)  
-- [LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning
+  - [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+  - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  
+  - [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155)
+  - [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://ui.adsabs.harvard.edu/abs/2022arXiv220313474N/abstract)
+  - [Highly Accurate Protein Structure Prediction with AlphaFold](https://pubmed.ncbi.nlm.nih.gov/34265844/)
+  - [Language Models of Protein Sequences at the Scale of Evolution Enable Accurate Structure Prediction](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1)
+  - [GatorTron: A Large Language Model for Clinical Natural Language Processing](https://www.medrxiv.org/content/10.1101/2022.02.27.22271257v2.full) 
+  - [Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset](https://arxiv.org/abs/2207.00220)  
+  - [LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning
 ](https://arxiv.org/abs/2209.06120)  
--
 
 
 ### Image-Text and Multimodal FMs  
@@ -166,20 +165,20 @@ to Follow Instructions](https://openai.com/blog/instruction-following/)
 * *Blog Posts*:  
 
 * *Papers*: 
-- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)  
-- [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)  
-- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)  
-- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)  
-- [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)  
-- [Imagen Video: High Definition Video Generation with Diffusion Models](https://arxiv.org/abs/2210.02303)  
-- [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/abs/2209.14792)  
-- [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)  
-- [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)  
-- [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)  
-- [CM3: A Causal Masked Multimodal Model of the Internet](https://arxiv.org/abs/2201.07520)  
-- [A Generalist Agent](https://arxiv.org/abs/2205.06175)
-- [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)  
-- [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853)  
+  - [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)  
+  - [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)  
+  - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)  
+  - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)  
+  - [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)  
+  - [Imagen Video: High Definition Video Generation with Diffusion Models](https://arxiv.org/abs/2210.02303)  
+  - [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/abs/2209.14792)  
+  - [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)  
+  - [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)  
+  - [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)  
+  - [CM3: A Causal Masked Multimodal Model of the Internet](https://arxiv.org/abs/2201.07520)  
+  - [A Generalist Agent](https://arxiv.org/abs/2205.06175)
+  - [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)  
+  - [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853)  
 
 ---
 
@@ -188,39 +187,39 @@ to Follow Instructions](https://openai.com/blog/instruction-following/)
 ### Security and Privacy  
 
 * *Course Notes*:  
-- [Security and Privacy](https://stanford-cs324.github.io/winter2022/assets/pdfs/Privacy%20pdf.pdf)  
+  - [Security and Privacy](https://stanford-cs324.github.io/winter2022/assets/pdfs/Privacy%20pdf.pdf)  
 
 * *Blog Posts*:  
 
 * *Papers*:  
-- [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)   
-- [Fair Learning](https://texaslawreview.org/fair-learning/)  
-- [Large Language Models Can Be Strong Differentially Private Learners
+  - [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)   
+  - [Fair Learning](https://texaslawreview.org/fair-learning/)  
+  - [Large Language Models Can Be Strong Differentially Private Learners
 ](https://arxiv.org/abs/2110.05679)  
-- [Can Foundation Models Help Us Achieve Perfect Secrecy?](https://arxiv.org/abs/2205.13722)
+  - [Can Foundation Models Help Us Achieve Perfect Secrecy?](https://arxiv.org/abs/2205.13722)
 
 ### Environmental Impact 
 * *Course Notes*:  
-- [Environmental Impact](https://stanford-cs324.github.io/winter2022/lectures/environment/)  
+  - [Environmental Impact](https://stanford-cs324.github.io/winter2022/lectures/environment/)  
 
 * Blog Posts*:  
 
 * *Papers*:  
-- [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243)  
-- [Carbon Emissions and Large Neural Network Training](https://arxiv.org/abs/2104.10350)  
-- [Unraveling the Hidden Environmental Impacts of AI Solutions for Environment](https://arxiv.org/abs/2110.11822)  
-- [Environment Section, On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/assets/report.pdf#environment)  
+  - [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243)  
+  - [Carbon Emissions and Large Neural Network Training](https://arxiv.org/abs/2104.10350)  
+  - [Unraveling the Hidden Environmental Impacts of AI Solutions for Environment](https://arxiv.org/abs/2110.11822)  
+  - [Environment Section, On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/assets/report.pdf#environment)  
 
 ### Legal Considerations 
 
 * *Course Notes*:  
-- [Legality](https://stanford-cs324.github.io/winter2022/lectures/legality/)  
+  - [Legality](https://stanford-cs324.github.io/winter2022/lectures/legality/)  
 
 * *Blog Posts*:  
-- [From Discrimination in Machine Learning to Discrimination in Law, Part 1: Disparate Treatment](https://ai.stanford.edu/blog/discrimination_in_ML_and_law/)  
-- [From Discrimination in Machine Learning to Discrimination in Law, Part 2: Disparate Impact](https://ai.stanford.edu/blog/discrimination_in_ML_and_law_p2/)  
+  - [From Discrimination in Machine Learning to Discrimination in Law, Part 1: Disparate Treatment](https://ai.stanford.edu/blog/discrimination_in_ML_and_law/)  
+  - [From Discrimination in Machine Learning to Discrimination in Law, Part 2: Disparate Impact](https://ai.stanford.edu/blog/discrimination_in_ML_and_law_p2/)  
 
 * *Papers / Articles*:  
-- [Internet Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3191751)  
-- [AI Regulation Is Coming](https://hbr.org/2021/09/ai-regulation-is-coming)  
-- [Legality Section, On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/assets/report.pdf#legality)  
+  - [Internet Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3191751)  
+  - [AI Regulation Is Coming](https://hbr.org/2021/09/ai-regulation-is-coming)  
+  - [Legality Section, On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/assets/report.pdf#legality)  
