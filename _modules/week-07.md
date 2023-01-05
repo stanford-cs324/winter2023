@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Feb 20
-: **Holiday**{: .label .label-purple }[President's Day](#)
+: Holiday{: .label .label-purple }[President's Day](#)
   : 
 
 Feb 22
