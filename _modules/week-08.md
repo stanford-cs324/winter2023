@@ -3,9 +3,9 @@ title: Week 8
 ---
 
 Feb 27
-: **Speaker**{: .label .label-green }[Talk TBD](#)
+: Speaker{: .label .label-green }[Talk TBD](#)
   : [Jack Rae](https://mobile.twitter.com/drjwrae) (OpenAI)
 
-March 1
-: **Speaker**{: .label .label-green }[](#)
-  : [TBD]
+Mar 1
+: Speaker{: .label .label-green }[](#)
+  : TBD

@@ -7,5 +7,5 @@ Feb 20
   : 
 
 Feb 22
-: **Speaker**{: .label .label-green }[Talk TBD](#)
+: Speaker{: .label .label-green }[Talk TBD](#)
   : [Nicholas Carlini](https://nicholas.carlini.com/) (Google Brain)

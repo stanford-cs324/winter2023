@@ -7,5 +7,5 @@ Jan 16
   : 
 
 Jan 18
-: **Lecture**{: .label .label-blue }[Text / Language Models](#)
+: Lecture{: .label .label-blue }[Text / Language Models](#)
   : Avanika Narayan, Michael Zhang
