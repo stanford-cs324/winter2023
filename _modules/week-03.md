@@ -7,5 +7,5 @@ Jan 23
   : Tatsu Hashimoto
 
 Jan 25
-: **Speaker**{: .label .label-green }[PaLM](#)
+: **Speaker**{: .label .label-green }[Pathways Language Model (PaLM) and Model Scaling](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
   : [Aakanksha Chowdhery](http://www.achowdhery.com/) (Google Brain)
