@@ -82,5 +82,3 @@ More information will shortly be available [here](https://stanford-cs324.github.
 
 ### 3. Class attendance and participation 
 Starting in Week 3 (1/25/2023), classes will feature guest speakers and the opportunity to ask questions in **follow-up Q&As**. We encourage you to be active during these sessions. To help prepare, as the quarter progress, additional information about upcoming speakers and relevant readings will be added to the [Calendar](https://stanford-cs324.github.io/winter2023/calendar/) page. These will be updated at least three days in advance of each class; we encourage you to read the relevant materials ahead of time.
-
----

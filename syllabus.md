@@ -202,7 +202,7 @@ Model Parallelism](https://arxiv.org/abs/1909.08053)
 * *Course Notes*:  
   - [Environmental Impact](https://stanford-cs324.github.io/winter2022/lectures/environment/)  
 
-* Blog Posts*:  
+* *Blog Posts*:  
 
 * *Papers*:  
   - [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243)  
