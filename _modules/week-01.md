@@ -7,5 +7,5 @@ Jan 9
   : Percy Liang
 
 Jan 11
-: **Lecture**{: .label .label-blue }[Training](#)
-  : Chris Ré, [Ce Zhang](https://zhangce.github.io/)
+: **Lecture**{: .label .label-blue }[Text / Language Models](#)
+  : Avanika Narayan, Michael Zhang
