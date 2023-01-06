@@ -35,6 +35,7 @@ Foundation models (FMs) are models (e.g., DALL-E, GPT-3, Stable Diffusion) that 
 
 **Format**: Classes are a mix of **lectures by course instructors** and **talks + Q&As with guest speakers**. Coursework is a combination of 1 *early assignment* and 1 *quarter-long project*, both focused on working directly and getting hands-on experience with existing foundation models.   
 - For more details, please see the [Class](#class) and [Coursework](#coursework) sections below. These will be updated shortly with additional information.
+- Speakers will be hosted by MLSys Seminar(http://mlsys.stanford.edu). Students will be required to watch the seminar. 
 
 ---
 
