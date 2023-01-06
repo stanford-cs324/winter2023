@@ -7,5 +7,5 @@ Jan 16
   : 
 
 Jan 18
-: **Lecture**{: .label .label-blue }[Text / Language Models](#)
-  : Avanika Narayan, Michael Zhang
+: **Speaker**{: .label .label-green }[Model Training](#)
+  : Ce Zhang
