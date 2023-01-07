@@ -39,6 +39,9 @@ Special thanks to the original content creators, including course notes from a [
 ## Fundamentals 
 
 ### What are foundation models (FMs) and why are they interesting?   
+* *Background on Neural Networks (course series from Andrej Karpathy)*:
+  - [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero)
+
 * *Course Notes*:  
   - [Large Language Model (LLM) Capabilities](https://stanford-cs324.github.io/winter2022/lectures/capabilities/)  
 
