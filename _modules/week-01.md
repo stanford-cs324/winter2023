@@ -7,5 +7,5 @@ Jan 9
   : Percy Liang
 
 Jan 11
-: **Lecture**{: .label .label-blue }[Text / Language Models](#)
-  : Avanika Narayan, Michael Zhang
+: **Speaker**{: .label .label-green }[TBD](#)
+  : [Tri Dao](https://tridao.me) (Stanford)
