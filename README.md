@@ -84,4 +84,4 @@ Starting in Week 3 (1/25/2023), classes will feature guest speakers and the oppo
 
 Daily class attendance will be recorded using the following [Google Form](https://forms.gle/CgdW2kxRgBFRpScr9)
 
-Attendance should recorded by EOD for every Monday/Wednesday class.
+Attendance should be recorded by EOD for every Monday/Wednesday class.
