@@ -7,5 +7,5 @@ Jan 9
   : Percy Liang
 
 Jan 11
-: **Speaker**{: .label .label-green }[Talk TBD](#)
+: **Speaker**{: .label .label-green }[FlashAttention](#)
   : [Tri Dao](https://tridao.me) (Stanford)
