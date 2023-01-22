@@ -3,7 +3,7 @@ title: Week 3
 ---
 
 Jan 23
-: **Lecture**{: .label .label-blue }[Emergent Behavior](#)
+: **Lecture**{: .label .label-blue }[Scaling Laws and Emergent Behavior](#)
   : Tatsu Hashimoto
 
 Jan 25
