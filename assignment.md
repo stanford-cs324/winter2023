@@ -33,4 +33,4 @@ The assignment is divided into three parts:
 
 Complete the following sections. Download and submit this notebook (as an .ipynb file) to Canvas by 11:59PM on 1/24/23. 
 
-Link to the Colab Notebook: https://colab.research.google.com/drive/13gyUcsX7KtkwSJ1PfW8MrlXQePVD_jFP
+Link to the Colab Notebook: [https://colab.research.google.com/drive/13gyUcsX7KtkwSJ1PfW8MrlXQePVD_jFP](https://colab.research.google.com/drive/13gyUcsX7KtkwSJ1PfW8MrlXQePVD_jFP)
