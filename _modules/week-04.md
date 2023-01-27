@@ -7,5 +7,5 @@ Jan 30
   : [Stella Biderman](https://www.stellabiderman.com/) (EleutherAI, Booz Allen Hamilton)
 
 Feb 1
-: **Lecture**{: .label .label-blue }[Text / Language Models](#)
-  : Avanika Narayan, Michael Zhang
+: **Speaker**{: .label .label-green }[A data-centric view on reliable generalization](#)
+  : Ludwig Schmidt 
