@@ -3,8 +3,8 @@ title: Week 6
 ---
 
 Feb 13
-: **Lecture**{: .label .label-blue }[Image / Image-Text Models](#)
-  : [Vishnu Sarukkai](https://vsanimator.github.io/) (Stanford)
+: **Lecture**{: .label .label-blue }[Talk TBD](#)
+  : [Raphael Townshend](https://raphael.tc.com) (Atomic AI)
 
 Feb 15
 : **Speaker**{: .label .label-green }[Foundation Model Ethics](#)
