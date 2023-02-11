@@ -3,7 +3,7 @@ title: Week 6
 ---
 
 Feb 13
-: **Lecture**{: .label .label-blue }[Talk TBD](#)
+: **Lecture**{: .label .label-green }[Unlocking the RNA Universe](#)
   : [Raphael Townshend](https://raphael.tc.com) (Atomic AI)
 
 Feb 15
